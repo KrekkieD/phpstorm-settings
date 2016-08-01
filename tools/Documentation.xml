@@ -1,0 +1,9 @@
+<toolSet name="Documentation">
+  <tool name="View DOT files" description="Terminal" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/symify/test/dot.sh" />
+      <option name="PARAMETERS" value="$FileDir$ $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Utilities" />
+    </exec>
+  </tool>
+</toolSet>

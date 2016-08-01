@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8054b602-7dfe-45ed-9a1f-1cdc509bcc7c" name="Dot!" url="http://local.dot.amnzero.nl">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6cb89faa-df54-4974-ac42-0600272bef97" name="SymifyMe" url="http://local.symifyme.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
