@@ -1,5 +1,6 @@
 <code_scheme name="Default (2)">
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <PHPCodeStyleSettings>
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
