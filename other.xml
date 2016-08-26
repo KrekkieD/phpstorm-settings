@@ -1,0 +1,10 @@
+<application>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="macosx" />
+    <executeWithDefaultAppCommand value="/usr/bin/open|$FilePath$" tokenizerDelims="|" />
+    <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
+    <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
+    <selectInFileManagerName value="MacOSX Finder" />
+    <nativeExtensions value="pdf,doc,ppt,xls" />
+  </component>
+</application>
