@@ -5,4 +5,9 @@
   <colors>
     <option name="WHITESPACES" value="414141" />
   </colors>
+  <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
