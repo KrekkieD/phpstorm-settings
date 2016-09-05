@@ -6,7 +6,10 @@
     <option name="WHITESPACES" value="414141" />
   </colors>
   <attributes>
-    <option name="INJECTED_LANGUAGE_FRAGMENT">
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
       <value />
     </option>
   </attributes>
