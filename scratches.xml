@@ -11,6 +11,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss.coffee" value="CoffeeScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" value="TypeScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.coffee" value="CoffeeScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css" value="CSS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" value="ECMAScript 6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" value="HTML" />
@@ -28,6 +29,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.coffee" value="CoffeeScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" value="ECMAScript 6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
@@ -47,8 +49,10 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" value="JavaScript" />
