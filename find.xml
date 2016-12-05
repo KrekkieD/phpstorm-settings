@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '.../client/src/__mocks__/globals.js - [branded-fares]'" />
+    <option name="defaultScopeName" value="File '.../client/src/__mocks__/globals.js - [branded-fares]'" />
+    <option name="SEARCH_SCOPE" value="File '.../client/src/__mocks__/globals.js - [branded-fares]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
