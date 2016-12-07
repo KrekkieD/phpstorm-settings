@@ -12,10 +12,10 @@
       <mask>*.mxml</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
-      <mask>package.json</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.html</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
